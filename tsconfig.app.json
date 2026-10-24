@@ -17,5 +17,5 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false
   },
-  "include": ["src"]
+ "include": ["app.tsx", "main.tsx"]
 }
